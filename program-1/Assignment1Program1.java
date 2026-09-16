@@ -4,12 +4,12 @@ public class Assignment1Program1 {
   public static void main(String[] args) {
     // G code
     String[] G = {
-      " GGGG",
+      " GGGG ",
       "G    G",
-      "G",
+      "G     ",
       "G  GGG",
       "G    G",
-      "G    G",
+      "G   GG",
       " GGGG"
     };
     // B code
